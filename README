@@ -1,0 +1,11 @@
+This package serves to fill in the gaps for writing go system libraries 
+or programs for the plan9 operating system by providing go implementations
+of plan9 libc functions.
+
+Most of these functions strive to be as close to the original C versions
+as possible.
+
+Functions implemented:
+	iounit
+	tokenize
+
