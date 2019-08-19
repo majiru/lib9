@@ -8,4 +8,5 @@ as possible.
 Functions implemented:
 	iounit
 	tokenize
+	dirfstat
 
